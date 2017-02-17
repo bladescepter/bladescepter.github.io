@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiyuan.lu/"/>
-  <updated>2017-02-14T03:18:03.622Z</updated>
+  <updated>2017-02-17T13:20:11.021Z</updated>
   <id>http://xiyuan.lu/</id>
   
   <author>
@@ -16,11 +16,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>火纹英雄斗技场的一点小体会</title>
+    <link href="http://xiyuan.lu/post/31/"/>
+    <id>http://xiyuan.lu/post/31/</id>
+    <published>2017-02-17T12:34:28.000Z</published>
+    <updated>2017-02-17T13:20:11.021Z</updated>
+    
+    <content type="html"><![CDATA[<p>前一阵在火焰之纹章·英雄（FEH）刚出的时候写了点<a href="http://xiyuan.lu/post/29/">感想</a>。现在两周玩下来，发现老任做手游还真是思路奇特。把手游分解成氪金/游玩两部分的话，虽然氪金部分常见的那些套路FEH该有的都有，但是游玩的部分还有些不同。</p>
+<p>日系手游普遍强化养成过程，玩家需要消耗大量精力把一个角色培养至完美。例如FGO中属于游玩部分的养成内容有等级、技能等级、灵基再临（等级上限突破），无论哪一项都十分不易达到完美。而FEH中角色养成就只有等级和加值两维，其中加值只能自吃，属于氪金范畴，也就是说，玩家能“肝”的，就只有等级。偏偏升级还非常简单，打对应等级的修炼塔，40级短则一天，长则两天，总之轻松愉快。战斗的过程由于需要动脑也非常有趣。不过这个可能是见仁见智。据我所知，把战斗不需要思考当作优点的玩家也大有人在。</p>
+<p>这个游戏唯一的肝点可能就是斗技场了。斗技场的逻辑是根据你的队伍总属性去匹配对手，然后与AI控制的对手战斗。</p>
+<p>由于AI的行动比较弱智，初看上去这似乎是很简单的战斗。但分数规则的设置使得斗技场的敌我双方其实并不在同一条起跑线上。这条规则是：打赢一场战斗获得的分数根据我方剩余人数确定，每死一个人都要减分。因此，如果想追求高分，玩家的胜利条件可以视为<strong>不死任何人取得胜利（7连胜）</strong>，而AI只需要打死一个人，玩家就注定刷不到高分，可以认输了。</p>
+<p>在这个前提下，我们来看斗技场的环境。</p>
+<p>以下是我54场战斗的记录（对手分数在648-654之间浮动）：</p>
+<p><img src="http://ojvk5mtjx.bkt.clouddn.com/QQ%E5%9B%BE%E7%89%8720170217202324.png" alt=""></p>
+<p>可以看到，角色其实还是非常集中的，有数个几乎场场见面的常客。具体到每一战的敌方构成，最常见的就是ヘクトル+タクミ+红蓝/红红。</p>
+<p>另一方面，与其他模式不同，斗技场的敌人是会直接主动进攻的。玩家的选择只能是防守反击。根据这样的情况，<strong>斗技场的战斗可以简化为：处理タクミ——处理其他角色——处理大海</strong>。</p>
+<p>先讲最简单的第三环节：出场率第一名的ヘクトル由玩家使用时非常强力。但由于AI的行动逻辑问题，敌方的ヘクトル非常简单，通常都是远远落在后方（除非对手带了舞娘）。一般抵达战场时战斗已经结束，只需要派一个红色角色与其单挑就能解决掉。因此，在队员配置上我们需要一个能单挑打赢ヘクトル红角色。</p>
+<p>而出场率第二名的タクミ则完全不同。很多情况下他都是第一个冲到玩家面前的敌人。处理タクミ的最佳办法是放置一个会反击且不会被一击毙命的角色到他的攻击范围最远处，第二回合收割掉。这个人可以是タクミ自己，也可以是ノノ，或者任何一个法师、弓箭手。</p>
+<p>这个环节是有翻车风险的，如果你挑选的反击位置会被敌方跟在タクミ身后的人攻击到，那么这个残血角色就极有可能阵亡。不过，我们可以通过利用地形来避免这种风险。或者用其他角色配合堵路。</p>
+<p><img src="http://ojvk5mtjx.bkt.clouddn.com/photo_2017-02-17_20-36-59.jpg" alt=""></p>
+<p>这是一个利用地形处理タクミ的例子。我方タクミ站在森林后攻击，可以消灭敌人。而敌方的チキ虽然紧跟在身后，但由于森林阻挡，无法攻击到我方残血队员。</p>
+<p>处理完タクミ后，我们面对的通常是红色、蓝色的敌人，而又以红色居多，因此剩下的两个队员以蓝蓝为佳。</p>
+<p><img src="http://ojvk5mtjx.bkt.clouddn.com/photo_2017-02-17_20-37-09.jpg" alt=""></p>
+<p>这是一个典型战局。布局已经完成，虽然只是交战的第一回合，但已经稳稳拿下。右边我方タクミ射死对方タクミ后，用ノノ堵路拦住敌方チキ。左边重甲击破红剑后，我方红剑下去干掉大海，即可结束战斗。</p>
+<p>这种电光火石间决定局势的战棋，也许就是FEH才能带来的乐趣。</p>
+<p>PS：我觉得罗伊的推人是个很好玩的技能，有时还能救命。</p>
+<p>比如这样：</p>
+<p><img src="http://ojvk5mtjx.bkt.clouddn.com/photo_2017-02-17_20-37-17.jpg" alt=""></p>
+<p>你必须用ノノ去攻击对手的军师，但这会导致她被大海砍死。</p>
+<p><img src="http://ojvk5mtjx.bkt.clouddn.com/photo_2017-02-17_20-37-28.jpg" alt=""></p>
+<p>打完之后用罗伊推一把，大家都安全啦~</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前一阵在火焰之纹章·英雄（FEH）刚出的时候写了点&lt;a href=&quot;http://xiyuan.lu/post/29/&quot;&gt;感想&lt;/a&gt;。现在两周玩下来，发现老任做手游还真是思路奇特。把手游分解成氪金/游玩两部分的话，虽然氪金部分常见的那些套路FEH该有的都有，但是游玩的部分
+    
+    </summary>
+    
+      <category term="游戏" scheme="http://xiyuan.lu/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+      <category term="火焰之纹章" scheme="http://xiyuan.lu/tags/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0/"/>
+    
+      <category term="FEH" scheme="http://xiyuan.lu/tags/FEH/"/>
+    
+      <category term="手游" scheme="http://xiyuan.lu/tags/%E6%89%8B%E6%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>好吃的唯一原因是觉得好吃</title>
     <link href="http://xiyuan.lu/post/30/"/>
     <id>http://xiyuan.lu/post/30/</id>
     <published>2017-02-14T01:13:18.000Z</published>
-    <updated>2017-02-14T03:18:03.622Z</updated>
+    <updated>2017-02-14T03:18:03.000Z</updated>
     
     <content type="html"><![CDATA[<p>记得早些年，在评论武侠小说时有一个常见的吐槽点，即书中的绝世武功总是来自先代流传，每每今不如古，与时代精神不符云云。当时也未曾细想，只觉得粗看似乎有理，但似乎不宜深究。</p>
 <p>然而今天，人们在谈论进步的时候，似乎把它当成了某种众所周知的背景知识，仿佛“古不如今”不可动摇，可以作为公理引用，并且能够放之万物而皆准。</p>
@@ -65,7 +115,7 @@
     <link href="http://xiyuan.lu/post/29/"/>
     <id>http://xiyuan.lu/post/29/</id>
     <published>2017-02-05T14:01:52.000Z</published>
-    <updated>2017-02-05T14:44:25.000Z</updated>
+    <updated>2017-02-05T14:44:25.169Z</updated>
     
     <content type="html"><![CDATA[<p>如今，市场上那些大肆捞钱的手游，已经具备了不少共通之处，到了可以单独划分一个类别的程度。它们一般都鼓励玩家不断抽奖，获取强力角色/卡牌，而抽奖的结果很大程度上由运气决定。玩家在抽奖中投入的金钱是这类游戏最大的收入来源。</p>
 <p>相比一次付费或道具明码标价的游戏，它们明显属于另一个种类。我想把它们称之为“氪金脸游”。日区排行榜上常年霸榜的那些游戏，例如怪物弹珠、智龙迷城、FGO、碧蓝幻想等无不属于此列。</p>
@@ -101,11 +151,11 @@
       <category term="游戏" scheme="http://xiyuan.lu/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-      <category term="任天堂" scheme="http://xiyuan.lu/tags/%E4%BB%BB%E5%A4%A9%E5%A0%82/"/>
-    
       <category term="火焰之纹章" scheme="http://xiyuan.lu/tags/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0/"/>
     
       <category term="手游" scheme="http://xiyuan.lu/tags/%E6%89%8B%E6%B8%B8/"/>
+    
+      <category term="任天堂" scheme="http://xiyuan.lu/tags/%E4%BB%BB%E5%A4%A9%E5%A0%82/"/>
     
   </entry>
   
@@ -114,7 +164,7 @@
     <link href="http://xiyuan.lu/post/28/"/>
     <id>http://xiyuan.lu/post/28/</id>
     <published>2017-01-22T02:33:13.000Z</published>
-    <updated>2017-01-22T08:20:55.745Z</updated>
+    <updated>2017-01-22T08:20:55.000Z</updated>
     
     <content type="html"><![CDATA[<p>扩写自<a href="http://weibo.com/kclithium" target="_blank" rel="external">拉迦特卡奥</a>的<a href="http://weibo.com/1900864371/ErQgBDPa0?" target="_blank" rel="external">微博</a>。</p>
 <hr>
@@ -180,7 +230,7 @@
     <link href="http://xiyuan.lu/post/27/"/>
     <id>http://xiyuan.lu/post/27/</id>
     <published>2017-01-18T06:30:08.000Z</published>
-    <updated>2017-01-20T13:40:04.000Z</updated>
+    <updated>2017-01-20T13:40:04.381Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://ojvk5mtjx.bkt.clouddn.com/-7Q2f-i3yyK16T1kSfk-fk_waifu2x_art_noise2_tta_1.png" alt="克苏恩·北方"></p>
 <p>虽然这个博客在周一，也就是1月16日早晨就已经可以正常访问。但我最近学到一条强大的逻辑：<strong><em>没有经过当权者正式宣布的事，就可以视作未曾发生</em></strong>。那么，作为这个博客的主人，我有权宣布今天才是名为西园的独立博客正式建立的日子。</p>
@@ -253,7 +303,7 @@
     <link href="http://xiyuan.lu/post/26/"/>
     <id>http://xiyuan.lu/post/26/</id>
     <published>2017-01-15T14:08:20.000Z</published>
-    <updated>2017-01-16T14:58:18.000Z</updated>
+    <updated>2017-01-16T14:58:18.714Z</updated>
     
     <content type="html"><![CDATA[<p>事实上，<strong>安利《返校》（Detention）</strong>是件难度非常大的事。一方面，剧透是要不得的。作为一款披着恐怖类外衣的解谜游戏，剧情可能并不是它最出彩的地方，但一旦被透，游玩的乐趣也就减少了大半。另一方面，如果绕开剧情介绍它，又很容易流于空泛。毕竟每年宣传自己“<strong>美术精良配乐精彩氛围营造强无敌整体堪称艺术品</strong>”的游戏没有几百也有几十，但让我这个对美术音乐方面的鉴赏能力基本属于不明觉厉程度的人来描述《返校》，估计我也只能写出上面那些评价。</p>
 <p>一般来说，这样的游戏最好的推广方式，可能是找一个百无聊赖的晚上，以物理方式拉住一个你认为是知音的人，把他按在电脑前，打开游戏让他去体验。你可以在一边看着，但最好不要打扰他。</p>
@@ -297,7 +347,7 @@
     <link href="http://xiyuan.lu/post/25/"/>
     <id>http://xiyuan.lu/post/25/</id>
     <published>2017-01-10T14:06:42.000Z</published>
-    <updated>2017-01-16T14:58:09.000Z</updated>
+    <updated>2017-01-16T14:58:09.647Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>一项长约八分钟的，用于分割上午和中午的仪式；大多紧接在工作之后，需要转换脑筋；一只手忙于进食，另一只手则用于阅读。</p>
@@ -348,7 +398,7 @@
     <link href="http://xiyuan.lu/post/24/"/>
     <id>http://xiyuan.lu/post/24/</id>
     <published>2017-01-04T14:05:46.000Z</published>
-    <updated>2017-01-16T14:58:00.000Z</updated>
+    <updated>2017-01-16T14:58:00.343Z</updated>
     
     <content type="html"><![CDATA[<p>2017年1月4日早晨，当我在大雾、浓霾和刚好沾湿路面的似有若无的雪中出门的时候，我还在感谢技术的进步使我可以踩着点出门赶公交，完全没有预料到接下来更大的苦难。<br>现在回想起来，稍有风吹草动便首先罢工的33路公交可能算是一个警告。因为它停止运行，硕果仅存的38路便承接了远多于平日的乘客，模拟出小号的沙丁鱼罐头。<br>之所以说是小号，是因为与接下来的地铁相比，公交上些微的拥挤无疑只能算是预习，甚至可以说是幸福。</p>
 <p>抵达地铁广阳城站的时候，站内密密麻麻的乘客实在令我吃惊。平时，这一站就算在早高峰人最多的时候，也只是门口站着四五位，车内松松垮垮的，虽然看着好像站满了，但钻进去毫不费力的程度。而今天，每个门口都排起长队，长度基本都超过站台的一半。<br>这个时候，列车进站了。车内、车外，人头攒动，无数目光相互对视。<br>列车停稳，两道门开启，一瞬间，方才静止的人群像潮水一样涌动起来。但能够融进本就拥挤不堪的车厢内的人，也就相当于潮水中白色浪花的部分。具体而言，就是每一队的第一个人而已。<br>车门试图关闭，车门关闭失败，车门再度开启。<br>乘警上手推了一把，一阵“哎哟”之声传出，车门关闭，远遁。</p>
@@ -388,7 +438,7 @@
     <link href="http://xiyuan.lu/post/23/"/>
     <id>http://xiyuan.lu/post/23/</id>
     <published>2016-11-13T13:59:45.000Z</published>
-    <updated>2017-01-16T14:57:51.000Z</updated>
+    <updated>2017-01-16T14:57:51.622Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>从水下第一个生命的萌芽开始，到石器时代的巨型野兽，再到人类第一次直立行走，你已经经历许多。现在，开启你最伟大的探索吧，从早期文明的摇篮到浩瀚星宇。</p>
@@ -443,7 +493,7 @@
     <link href="http://xiyuan.lu/post/22/"/>
     <id>http://xiyuan.lu/post/22/</id>
     <published>2016-11-06T13:57:28.000Z</published>
-    <updated>2017-01-16T14:57:42.000Z</updated>
+    <updated>2017-01-16T14:57:42.061Z</updated>
     
     <content type="html"><![CDATA[<p>神8随机领袖随机地图，277回合征服胜利。</p>
 <p><img src="http://ojvk5mtjx.bkt.clouddn.com/20161106001206_1.jpg" alt=""></p>
@@ -482,7 +532,7 @@
     <link href="http://xiyuan.lu/post/21/"/>
     <id>http://xiyuan.lu/post/21/</id>
     <published>2016-10-08T13:54:43.000Z</published>
-    <updated>2017-01-16T16:33:52.000Z</updated>
+    <updated>2017-01-16T16:33:52.373Z</updated>
     
     <content type="html"><![CDATA[<h2 id="我即世界"><a href="#我即世界" class="headerlink" title="我即世界"></a>我即世界</h2><p>当我望见血腥男爵的城堡冒出火光与黑烟，整个乌鸦窝乱作一团的时候，我正操控杰洛特骑着萝卜赶往地图上某个毫无意义的白点 。我不由得调转马头往那座长长的木桥上跑了几步，然后停下来，打开世界地图，看看刚刚标出的绿色目的地，思索几秒钟后重新回到预定的路线上。</p>
 <p>此去经年——这样说也许过于夸张。但当我处理完路边遇到的一系列任务，再次回到乌鸦窝的时候，游戏里的时间已经过去了一周左右。然而这座城镇依然在火光与黑烟下慌乱着，一如我调转马头那一瞬间，毫无变化。</p>
@@ -520,7 +570,7 @@
     <link href="http://xiyuan.lu/post/20/"/>
     <id>http://xiyuan.lu/post/20/</id>
     <published>2016-07-27T13:24:05.000Z</published>
-    <updated>2017-01-16T14:57:19.000Z</updated>
+    <updated>2017-01-16T14:57:19.692Z</updated>
     
     <content type="html"><![CDATA[<p>Cy模仿炉石推出这款游戏已经有近一个月时间了，我也终于顺利打上了A0。简单说说一些感想吧。</p>
 <p>对卡牌对战类游戏的感情一直比较复杂，一方面非常喜欢这种手牌管理+回合制战斗的形式，另一方面绝大部分此类游戏都需要线下交流，对于不太愿意出门的自己来说并不方便。炉石大大简化了源于许多前辈的成熟规则，并提供了相对完善的在线对战环境（也只有在线对战），获得了巨大的成功，同时也出现了众多的模仿者，Shadowverse就是其中之一。对于习惯于日式画风的人而言，这款游戏的画风无疑要比炉石舒服很多，这可能是很多人入坑的理由。</p>
@@ -630,7 +680,7 @@
     <link href="http://xiyuan.lu/post/19/"/>
     <id>http://xiyuan.lu/post/19/</id>
     <published>2016-07-13T12:56:26.000Z</published>
-    <updated>2017-01-16T14:57:09.000Z</updated>
+    <updated>2017-01-16T14:57:09.679Z</updated>
     
     <content type="html"><![CDATA[<p><strong>2016年7月3日 星期日  天气：因为是周日所以不太清楚</strong></p>
 <p>这是充满了喜悦与意外的一天，甚至连喜悦本身也充满了意外。</p>
@@ -667,7 +717,7 @@
     <link href="http://xiyuan.lu/post/18/"/>
     <id>http://xiyuan.lu/post/18/</id>
     <published>2015-10-29T12:55:18.000Z</published>
-    <updated>2017-01-16T14:57:00.000Z</updated>
+    <updated>2017-01-16T14:57:00.147Z</updated>
     
     <content type="html"><![CDATA[<p>“滴滴滴滴、滴滴滴滴、滴滴滴滴。”</p>
 <p>Zera揉了揉惺忪的睡眼，右手在身畔摸索一番，拿起了黑暗中唯一的光源。</p>
@@ -712,7 +762,7 @@
     <link href="http://xiyuan.lu/post/17/"/>
     <id>http://xiyuan.lu/post/17/</id>
     <published>2015-09-18T12:53:50.000Z</published>
-    <updated>2017-01-16T14:56:50.000Z</updated>
+    <updated>2017-01-16T14:56:50.845Z</updated>
     
     <content type="html"><![CDATA[<p>早高峰接近尾声，县城的33路小公交上虽已不能说人满为患，但仍旧座无虚席。</p>
 <p>不，说座无虚席好像有哪里不对。因为车上仍有一个空座位，虽有三五位站立的乘客，但却对它不闻不问。</p>
@@ -747,7 +797,7 @@
     <link href="http://xiyuan.lu/post/16/"/>
     <id>http://xiyuan.lu/post/16/</id>
     <published>2015-07-31T12:52:48.000Z</published>
-    <updated>2017-01-16T14:56:40.000Z</updated>
+    <updated>2017-01-16T14:56:40.745Z</updated>
     
     <content type="html"><![CDATA[<p>深宅大院。</p>
 <p>卓斌在跨过高高的门槛前，习惯性地用左手抚过自己的眉毛，仿佛这样，可以擦亮眼睛，把这个多少有些昏暗幽深的院落看得更清楚。</p>
@@ -800,7 +850,7 @@
     <link href="http://xiyuan.lu/post/15/"/>
     <id>http://xiyuan.lu/post/15/</id>
     <published>2014-09-12T12:50:36.000Z</published>
-    <updated>2017-01-16T14:56:32.000Z</updated>
+    <updated>2017-01-16T14:56:32.397Z</updated>
     
     <content type="html"><![CDATA[<p>鲁镇住宅楼电梯的格局，照例是与别处不同的。两部电梯虽也像模像样地分立左右，但却只有1、6、9、12四个可以到达的楼层。这倒也不难理解，低层的住户，想来是没有乘坐电梯的份儿，而中间夹层的住户，也仅仅需要稍移玉趾，上下那么一层楼而已。</p>
 <p>说到电梯的运行，则是以高层为优先。假若6层抢先下手，传唤蹲在1层的电梯，而9层、12层在途中横刀夺爱，那么电梯须先上到12层，再下到9层停驻，最后接上6层苦等的客人，再一起下行。</p>
@@ -839,7 +889,7 @@
     <link href="http://xiyuan.lu/post/14/"/>
     <id>http://xiyuan.lu/post/14/</id>
     <published>2014-08-07T12:49:28.000Z</published>
-    <updated>2017-01-16T14:56:23.000Z</updated>
+    <updated>2017-01-16T14:56:23.306Z</updated>
     
     <content type="html"><![CDATA[<p>刷卡，下车，掏烟，点着，吸一口，吐出淡淡的白烟。</p>
 <p>公交站到地铁口有大概500米的距离，他的脚步一向很快，一气呵成地做完这一串动作后，还能颇有余裕地走在同行者之前，伴着身畔的微风，享受从清晨开始的美好时光。</p>
@@ -874,7 +924,7 @@
     <link href="http://xiyuan.lu/post/13/"/>
     <id>http://xiyuan.lu/post/13/</id>
     <published>2014-07-23T12:48:32.000Z</published>
-    <updated>2017-01-16T14:56:11.000Z</updated>
+    <updated>2017-01-16T14:56:11.915Z</updated>
     
     <content type="html"><![CDATA[<p>昨夜流离处。<br>剑空悬，残羹冷炙，哪堪回顾。<br>冰雪消磨知己少，但见天涯难渡。<br>徒有恨，向何人诉。<br>天日无光十六载，把千刀万刃孤身负。<br>一夕别，此生误。</p>
 <p>忆昔一战冲冠怒。<br>问江山，几家破碎，几家凄楚。<br>回首自将刀兵偃，却看弓弦断处。<br>流落也，残花无数。<br>折剑无言西园外，任蠡虫渐把征袍蠹。<br>月未圆，人已暮。</p>
@@ -897,7 +947,7 @@
     <link href="http://xiyuan.lu/post/12/"/>
     <id>http://xiyuan.lu/post/12/</id>
     <published>2014-07-03T12:46:18.000Z</published>
-    <updated>2017-01-16T14:56:03.000Z</updated>
+    <updated>2017-01-16T14:56:03.043Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>唯一王伊布死去那天，这片以他命名的大陆，终于迎来了魔法的普及时代。一向性情古怪的唯一王，在死亡这件事上也不愿与他人雷同，他在遗嘱中写道：“我统一大陆的功绩前无古人，也必将后无来者。因此，我将大陆分封为一千个王国，每个王国继承我的一种魔法。愿你们的征战永不止歇。”</p>
@@ -934,47 +984,6 @@
       <category term="讽刺" scheme="http://xiyuan.lu/tags/%E8%AE%BD%E5%88%BA/"/>
     
       <category term="唯一王" scheme="http://xiyuan.lu/tags/%E5%94%AF%E4%B8%80%E7%8E%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二零零六</title>
-    <link href="http://xiyuan.lu/post/11/"/>
-    <id>http://xiyuan.lu/post/11/</id>
-    <published>2014-06-30T12:40:16.000Z</published>
-    <updated>2017-01-16T14:55:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>一</strong><br>严冬的雪，<br>覆压了小径。<br>仿佛是要掩尽，<br>所有的生命。<br>就连松柏，<br>也失去了抗争的禀性。<br>静静死去，<br>失去了任何曾经。</p>
-<p>然而有人，<br>握住了刀柄。<br>在坚冰之上，<br>刻下，<br>一二·二九的墓志铭。<br>她微笑着站起，<br>绽放如末日的倒影。<br>用无言宣判了，<br>过去的死刑。</p>
-<p>春雷在原野里苏醒，<br>不在乎黄昏或黎明。<br>他义无反顾，<br>追逐着那个幻境。<br>并不曾预感，<br>跌落和碰撞后，<br>泯灭的心灵。</p>
-<p><strong>二</strong><br>眼睛里，<br>悄悄地迷失了自己。<br>回到千年以前，<br>触摸一百万字的孤寂。<br>八个昼夜的缱绻，<br>览尽四十三年的回忆。<br>然后都化作鸿雁，<br>带到彼岸的那颗心里。<br>回应或许，<br>是出于客气。<br>他的喜悦，<br>却是发自心底。<br>于是希望，<br>不可收拾地泛滥而起，<br>仿佛可以，<br>冲刷出一片新的天地。<br>她在那时，<br>倚立在门的缝隙。<br>一种猜疑，<br>两处哭泣。<br>所以她会，<br>有了飞翔的魔力。<br>让狂风吹走，<br>所有的悲喜。<br>善意地追询，<br>是命运玩过的游戏。<br>然而它确实，<br>曾抵挡过门的关闭。<br>泪坠入水中，<br>有珍珠般的清波与涟漪。<br>而她的倒影，<br>一如既往，<br>维系着美丽。<br>十指轻旋，<br>记录下，<br>二·一四的叹息。</p>
-<p><strong>三</strong><br>他纵情地创造，<br>纵情地毁灭。<br>直到笑已凝固，<br>直到泪已枯竭。<br>所有的企盼，<br>开始在停下的一夜。<br>他希望清风，<br>投下哪怕是不屑的一瞥。<br>命运天生，<br>就懂得如何捉弄，<br>如何戏谑。<br>如何利用，<br>一切的情结。<br>它是天才的编剧，<br>连魔鬼也会为之呜咽。<br>自认幽默的笔法，<br>让美好有序地断绝。</p>
-<p>而她的裙裾，<br>轻轻地摇曳。<br>拂过了年华，<br>飘香的岁月。<br>一点赞许，<br>一丝殷切，<br>一次期待，<br>再难以停歇。<br>三·一八的界碑上，<br>刻下了，<br>沉沦之昼，<br>与永恒之夜。</p>
-<p><strong>四</strong><br>倾诉，<br>所有的往故。<br>用有意去试探，<br>无心的温度。<br>她优美的舞蹈，<br>趾尖划出完美的圆弧。<br>千古愁绪，<br>尽归尘土。</p>
-<p>相逢，<br>是一条不归的前路。<br>靠近，<br>他不由自主也不愿认输。<br>夜莺清脆的歌声，<br>将他引入了迷途。<br>却不知这歌声背后，<br>隐藏了早该到来的雨露。<br>夜莺高高地飞走，<br>他看不见，<br>他留不住。<br>他只能急速地奔跑，<br>驱散可怕的孤独。<br>他甘愿伤心，<br>纵情痛哭。<br>也要死守，<br>看透真实的帷幕。<br>请牢记，<br>三·二五的归途。</p>
-<p><strong>五</strong><br>看不见，<br>也听不见。<br>在他的面前，<br>留下的唯有信念。<br>华丽的灯光下，<br>舞步依旧在飞旋。<br>伸出双手，<br>他只要最真实的一面。<br>忘记了过去，<br>抛弃了明天。<br>他宁愿今夜，<br>成为一切的终点。<br>而在，<br>世界的另一边，<br>她正安享，<br>难得的悠闲。<br>打破寂静的歌声，<br>从有恒飘向永远。<br>一步一步，<br>谋划好的真心，<br>拨动了琴弦。<br>无力的回声，<br>车轮的旋转，<br>铭刻下，<br>四·三〇的无限。</p>
-<p><strong>六</strong><br>那，<br>是一朵花。<br>孤单而骄傲的绽放，<br>在夕阳之下。<br>她也曾欣喜，<br>如梦似幻的童话。<br>握住他给的画笔，<br>留下一抹，<br>醉人的晚霞。<br>有意无意地呼喊，<br>换来成千上万次回答。<br>苦心追求的快乐，<br>构筑成易碎的，<br>一个家。</p>
-<p>最难忘却的，<br>总是青春的年华。<br>而遗憾钟爱的，<br>却是粗劣的粉刷。<br>她的一丝惆怅，<br>成为无法割舍的牵挂。<br>而就此注定，<br>命运的性情，<br>走向促狭。<br>在此时，<br>种子还没能发芽。<br>阴影却已经，<br>不可思议地惊讶。<br>然而谁也不能掩盖。<br>五·二和五·五的，<br>瞬间光华。</p>
-<p><strong>七</strong><br>黑夜里，<br>思念在自由地流浪。<br>一点温柔的期许，<br>飞扬在碎裂的时光。<br>灰色的回答，<br>带来无边的怅惘。<br>他心乱如麻，<br>最罕见的慌张。<br>不可忍受的寂静，<br>不可压抑的倔强。<br>他勇敢地抬头，<br>无比坚定的目光。<br>颤抖的时钟，<br>无助地将忧郁划响。<br>而她在尽头，<br>身后是灿烂的暖阳。<br>迷醉与痴狂，<br>语言是放逐或遗忘。<br>她指尖的韵律，<br>奏出最华美的忧伤。<br>涛澜的起伏，<br>回到了起始的地方。<br>五·一三的午夜里，<br>他和她，<br>用真诚与虚伪铭刻下，<br>最后的百叶窗。</p>
-<p><strong>八</strong><br>忧伤难举，<br>未忘期许。<br>一次勇敢的出走，<br>一场孤独的羁旅。<br>为了实现，<br>不曾当真的承诺，<br>他茫然步入了，<br>漫天花雨。<br>天空不给他指引，<br>脚步要往何处去？<br>他只知道前路，<br>通向了未知的领域。<br>寻觅 寻觅，<br>在徒劳的一隅。<br>听见世界尽头，<br>哀婉的旋律。</p>
-<p>然而她无心的落子，<br>打乱了所有的布局。<br>脚下的舞步，<br>节奏已彻底失去。<br>五·二〇是一场幻灭，<br>是与死神的，<br>一次奇遇。</p>
-<p><strong>九</strong><br>人不寐，<br>路不归。<br>流不尽的，<br>却是眼泪。<br>想不开的，<br>百转千回。<br>是他的错？<br>是她的对？<br>抑或对是错？<br>而错是对？<br>没有解析，<br>也无从回味。<br>简单从容地斩断了，<br>一切的暧昧。</p>
-<p>他知道，<br>普通是比仇敌，<br>更残忍的破碎。<br>他却不能明白，<br>谁，<br>究竟是谁？<br>最后一只鸽子，<br>也已做完了两次高飞。<br>从此之后，<br>再见不到。<br>花落随着清风，<br>叶落随着流水。<br>从此以后，<br>他无谓无味，<br>无畏无为。<br>再次沦入，<br>死寂的沉睡。<br>棺盖之上，<br>覆压着六·四的墓碑。<br>只铭刻下两行字：<br>岁月违背，<br>伤心为谁？</p>
-<hr>
-<p>写于2006年</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;一&lt;/strong&gt;&lt;br&gt;严冬的雪，&lt;br&gt;覆压了小径。&lt;br&gt;仿佛是要掩尽，&lt;br&gt;所有的生命。&lt;br&gt;就连松柏，&lt;br&gt;也失去了抗争的禀性。&lt;br&gt;静静死去，&lt;br&gt;失去了任何曾经。&lt;/p&gt;
-&lt;p&gt;然而有人，&lt;br&gt;握住了刀柄。&lt;br&gt;在坚冰之上，&lt;b
-    
-    </summary>
-    
-      <category term="诗歌" scheme="http://xiyuan.lu/categories/%E8%AF%97%E6%AD%8C/"/>
-    
-    
-      <category term="爱情" scheme="http://xiyuan.lu/tags/%E7%88%B1%E6%83%85/"/>
     
   </entry>
   
