@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiyuan.lu/"/>
-  <updated>2017-03-29T09:10:46.574Z</updated>
+  <updated>2017-03-29T09:10:46.000Z</updated>
   <id>http://xiyuan.lu/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://xiyuan.lu/post/35/"/>
     <id>http://xiyuan.lu/post/35/</id>
     <published>2017-03-29T02:40:20.000Z</published>
-    <updated>2017-03-29T09:10:46.574Z</updated>
+    <updated>2017-03-29T09:10:46.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-公司"><a href="#1-公司" class="headerlink" title="1. 公司"></a>1. 公司</h2><p>星期五的早上，李万年和往常一样，提前五分钟来到公司，打开电脑戴上耳机开始工作。</p>
 <p>敲击键盘的节奏和轻快的音乐融为一体，让他觉得自己进入了某种飘飘欲仙的境界。他甚至没察觉到今天办公室里有什么不同。</p>
@@ -100,9 +100,10 @@
     <link href="http://xiyuan.lu/post/34/"/>
     <id>http://xiyuan.lu/post/34/</id>
     <published>2017-03-19T03:12:04.000Z</published>
-    <updated>2017-03-19T04:00:46.000Z</updated>
+    <updated>2017-03-29T12:14:29.261Z</updated>
     
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=82932&auto=0&height=66"></iframe>
+    <content type="html"><![CDATA[<a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=82932&auto=0&height=66"></iframe>
 
 <p>110个小时，这是直到拿到白金奖杯为止，我花在《仁王》上的时间长度。其中大约有108个小时很有乐趣，剩下的两个小时则是在为刷钱拿到铁匠铺奖杯来回奔波的重复作业时间。</p>
 <p><img src="http://ojvk5mtjx.bkt.clouddn.com/20170318230839.jpg" alt=""></p>
@@ -121,7 +122,8 @@
     
     <summary type="html">
     
-      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain
     
     </summary>
     
@@ -141,7 +143,7 @@
     <link href="http://xiyuan.lu/post/33/"/>
     <id>http://xiyuan.lu/post/33/</id>
     <published>2017-03-12T05:16:46.000Z</published>
-    <updated>2017-03-12T05:31:24.000Z</updated>
+    <updated>2017-03-12T05:31:24.567Z</updated>
     
     <content type="html"><![CDATA[<p>听到<a href="http://music.163.com/#/song?id=27759600" target="_blank" rel="external">500英里这首歌</a>前奏的时候，就觉得它应该是一首中文歌。结果并不是，于是自己随便乱填了一些歌词。</p>
 <p>并不知道填歌词有什么讲究，所以估计唱出来会比较尴尬。不过写着玩无所谓了。</p>
@@ -175,7 +177,7 @@
     <link href="http://xiyuan.lu/post/32/"/>
     <id>http://xiyuan.lu/post/32/</id>
     <published>2017-02-27T08:03:33.000Z</published>
-    <updated>2017-02-27T12:27:23.000Z</updated>
+    <updated>2017-02-27T12:27:23.105Z</updated>
     
     <content type="html"><![CDATA[<p>大约半年以前，也就是Shadowverse这款游戏刚开始运营一个月的时候，我对它进行了一些<a href="http://xiyuan.lu/post/20/">简单评价</a>。当时的契机是在游戏中打到了A0级别。而这个游戏的天梯级别划分是这样的：</p>
 <p><img src="http://ojvk5mtjx.bkt.clouddn.com/sp170227_164724.png" alt="天梯分段"></p>
@@ -220,7 +222,7 @@
     <link href="http://xiyuan.lu/post/31/"/>
     <id>http://xiyuan.lu/post/31/</id>
     <published>2017-02-17T12:34:28.000Z</published>
-    <updated>2017-02-17T13:20:11.000Z</updated>
+    <updated>2017-02-17T13:20:11.021Z</updated>
     
     <content type="html"><![CDATA[<p>前一阵在火焰之纹章·英雄（FEH）刚出的时候写了点<a href="http://xiyuan.lu/post/29/">感想</a>。现在两周玩下来，发现老任做手游还真是思路奇特。把手游分解成氪金/游玩两部分的话，虽然氪金部分常见的那些套路FEH该有的都有，但是游玩的部分还有些不同。</p>
 <p>日系手游普遍强化养成过程，玩家需要消耗大量精力把一个角色培养至完美。例如FGO中属于游玩部分的养成内容有等级、技能等级、灵基再临（等级上限突破），无论哪一项都十分不易达到完美。而FEH中角色养成就只有等级和加值两维，其中加值只能自吃，属于氪金范畴，也就是说，玩家能“肝”的，就只有等级。偏偏升级还非常简单，打对应等级的修炼塔，40级短则一天，长则两天，总之轻松愉快。战斗的过程由于需要动脑也非常有趣。不过这个可能是见仁见智。据我所知，把战斗不需要思考当作优点的玩家也大有人在。</p>
@@ -270,7 +272,7 @@
     <link href="http://xiyuan.lu/post/30/"/>
     <id>http://xiyuan.lu/post/30/</id>
     <published>2017-02-14T01:13:18.000Z</published>
-    <updated>2017-02-14T03:18:03.622Z</updated>
+    <updated>2017-02-14T03:18:03.000Z</updated>
     
     <content type="html"><![CDATA[<p>记得早些年，在评论武侠小说时有一个常见的吐槽点，即书中的绝世武功总是来自先代流传，每每今不如古，与时代精神不符云云。当时也未曾细想，只觉得粗看似乎有理，但似乎不宜深究。</p>
 <p>然而今天，人们在谈论进步的时候，似乎把它当成了某种众所周知的背景知识，仿佛“古不如今”不可动摇，可以作为公理引用，并且能够放之万物而皆准。</p>
@@ -315,7 +317,7 @@
     <link href="http://xiyuan.lu/post/29/"/>
     <id>http://xiyuan.lu/post/29/</id>
     <published>2017-02-05T14:01:52.000Z</published>
-    <updated>2017-02-05T14:44:25.000Z</updated>
+    <updated>2017-02-05T14:44:25.169Z</updated>
     
     <content type="html"><![CDATA[<p>如今，市场上那些大肆捞钱的手游，已经具备了不少共通之处，到了可以单独划分一个类别的程度。它们一般都鼓励玩家不断抽奖，获取强力角色/卡牌，而抽奖的结果很大程度上由运气决定。玩家在抽奖中投入的金钱是这类游戏最大的收入来源。</p>
 <p>相比一次付费或道具明码标价的游戏，它们明显属于另一个种类。我想把它们称之为“氪金脸游”。日区排行榜上常年霸榜的那些游戏，例如怪物弹珠、智龙迷城、FGO、碧蓝幻想等无不属于此列。</p>
@@ -364,7 +366,7 @@
     <link href="http://xiyuan.lu/post/28/"/>
     <id>http://xiyuan.lu/post/28/</id>
     <published>2017-01-22T02:33:13.000Z</published>
-    <updated>2017-01-22T08:20:55.745Z</updated>
+    <updated>2017-01-22T08:20:55.000Z</updated>
     
     <content type="html"><![CDATA[<p>扩写自<a href="http://weibo.com/kclithium" target="_blank" rel="external">拉迦特卡奥</a>的<a href="http://weibo.com/1900864371/ErQgBDPa0?" target="_blank" rel="external">微博</a>。</p>
 <hr>
@@ -430,7 +432,7 @@
     <link href="http://xiyuan.lu/post/27/"/>
     <id>http://xiyuan.lu/post/27/</id>
     <published>2017-01-18T06:30:08.000Z</published>
-    <updated>2017-01-20T13:40:04.000Z</updated>
+    <updated>2017-01-20T13:40:04.381Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://ojvk5mtjx.bkt.clouddn.com/-7Q2f-i3yyK16T1kSfk-fk_waifu2x_art_noise2_tta_1.png" alt="克苏恩·北方"></p>
 <p>虽然这个博客在周一，也就是1月16日早晨就已经可以正常访问。但我最近学到一条强大的逻辑：<strong><em>没有经过当权者正式宣布的事，就可以视作未曾发生</em></strong>。那么，作为这个博客的主人，我有权宣布今天才是名为西园的独立博客正式建立的日子。</p>
@@ -503,7 +505,7 @@
     <link href="http://xiyuan.lu/post/26/"/>
     <id>http://xiyuan.lu/post/26/</id>
     <published>2017-01-15T14:08:20.000Z</published>
-    <updated>2017-01-16T14:58:18.000Z</updated>
+    <updated>2017-01-16T14:58:18.714Z</updated>
     
     <content type="html"><![CDATA[<p>事实上，<strong>安利《返校》（Detention）</strong>是件难度非常大的事。一方面，剧透是要不得的。作为一款披着恐怖类外衣的解谜游戏，剧情可能并不是它最出彩的地方，但一旦被透，游玩的乐趣也就减少了大半。另一方面，如果绕开剧情介绍它，又很容易流于空泛。毕竟每年宣传自己“<strong>美术精良配乐精彩氛围营造强无敌整体堪称艺术品</strong>”的游戏没有几百也有几十，但让我这个对美术音乐方面的鉴赏能力基本属于不明觉厉程度的人来描述《返校》，估计我也只能写出上面那些评价。</p>
 <p>一般来说，这样的游戏最好的推广方式，可能是找一个百无聊赖的晚上，以物理方式拉住一个你认为是知音的人，把他按在电脑前，打开游戏让他去体验。你可以在一边看着，但最好不要打扰他。</p>
@@ -547,7 +549,7 @@
     <link href="http://xiyuan.lu/post/25/"/>
     <id>http://xiyuan.lu/post/25/</id>
     <published>2017-01-10T14:06:42.000Z</published>
-    <updated>2017-01-16T14:58:09.000Z</updated>
+    <updated>2017-01-16T14:58:09.647Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>一项长约八分钟的，用于分割上午和中午的仪式；大多紧接在工作之后，需要转换脑筋；一只手忙于进食，另一只手则用于阅读。</p>
@@ -598,7 +600,7 @@
     <link href="http://xiyuan.lu/post/24/"/>
     <id>http://xiyuan.lu/post/24/</id>
     <published>2017-01-04T14:05:46.000Z</published>
-    <updated>2017-01-16T14:58:00.000Z</updated>
+    <updated>2017-01-16T14:58:00.343Z</updated>
     
     <content type="html"><![CDATA[<p>2017年1月4日早晨，当我在大雾、浓霾和刚好沾湿路面的似有若无的雪中出门的时候，我还在感谢技术的进步使我可以踩着点出门赶公交，完全没有预料到接下来更大的苦难。<br>现在回想起来，稍有风吹草动便首先罢工的33路公交可能算是一个警告。因为它停止运行，硕果仅存的38路便承接了远多于平日的乘客，模拟出小号的沙丁鱼罐头。<br>之所以说是小号，是因为与接下来的地铁相比，公交上些微的拥挤无疑只能算是预习，甚至可以说是幸福。</p>
 <p>抵达地铁广阳城站的时候，站内密密麻麻的乘客实在令我吃惊。平时，这一站就算在早高峰人最多的时候，也只是门口站着四五位，车内松松垮垮的，虽然看着好像站满了，但钻进去毫不费力的程度。而今天，每个门口都排起长队，长度基本都超过站台的一半。<br>这个时候，列车进站了。车内、车外，人头攒动，无数目光相互对视。<br>列车停稳，两道门开启，一瞬间，方才静止的人群像潮水一样涌动起来。但能够融进本就拥挤不堪的车厢内的人，也就相当于潮水中白色浪花的部分。具体而言，就是每一队的第一个人而已。<br>车门试图关闭，车门关闭失败，车门再度开启。<br>乘警上手推了一把，一阵“哎哟”之声传出，车门关闭，远遁。</p>
@@ -638,7 +640,7 @@
     <link href="http://xiyuan.lu/post/23/"/>
     <id>http://xiyuan.lu/post/23/</id>
     <published>2016-11-13T13:59:45.000Z</published>
-    <updated>2017-01-16T14:57:51.000Z</updated>
+    <updated>2017-01-16T14:57:51.622Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>从水下第一个生命的萌芽开始，到石器时代的巨型野兽，再到人类第一次直立行走，你已经经历许多。现在，开启你最伟大的探索吧，从早期文明的摇篮到浩瀚星宇。</p>
@@ -693,7 +695,7 @@
     <link href="http://xiyuan.lu/post/22/"/>
     <id>http://xiyuan.lu/post/22/</id>
     <published>2016-11-06T13:57:28.000Z</published>
-    <updated>2017-01-16T14:57:42.000Z</updated>
+    <updated>2017-01-16T14:57:42.061Z</updated>
     
     <content type="html"><![CDATA[<p>神8随机领袖随机地图，277回合征服胜利。</p>
 <p><img src="http://ojvk5mtjx.bkt.clouddn.com/20161106001206_1.jpg" alt=""></p>
@@ -732,7 +734,7 @@
     <link href="http://xiyuan.lu/post/21/"/>
     <id>http://xiyuan.lu/post/21/</id>
     <published>2016-10-08T13:54:43.000Z</published>
-    <updated>2017-01-16T16:33:52.000Z</updated>
+    <updated>2017-01-16T16:33:52.373Z</updated>
     
     <content type="html"><![CDATA[<h2 id="我即世界"><a href="#我即世界" class="headerlink" title="我即世界"></a>我即世界</h2><p>当我望见血腥男爵的城堡冒出火光与黑烟，整个乌鸦窝乱作一团的时候，我正操控杰洛特骑着萝卜赶往地图上某个毫无意义的白点 。我不由得调转马头往那座长长的木桥上跑了几步，然后停下来，打开世界地图，看看刚刚标出的绿色目的地，思索几秒钟后重新回到预定的路线上。</p>
 <p>此去经年——这样说也许过于夸张。但当我处理完路边遇到的一系列任务，再次回到乌鸦窝的时候，游戏里的时间已经过去了一周左右。然而这座城镇依然在火光与黑烟下慌乱着，一如我调转马头那一瞬间，毫无变化。</p>
@@ -770,7 +772,7 @@
     <link href="http://xiyuan.lu/post/20/"/>
     <id>http://xiyuan.lu/post/20/</id>
     <published>2016-07-27T13:24:05.000Z</published>
-    <updated>2017-01-16T14:57:19.000Z</updated>
+    <updated>2017-01-16T14:57:19.692Z</updated>
     
     <content type="html"><![CDATA[<p>Cy模仿炉石推出这款游戏已经有近一个月时间了，我也终于顺利打上了A0。简单说说一些感想吧。</p>
 <p>对卡牌对战类游戏的感情一直比较复杂，一方面非常喜欢这种手牌管理+回合制战斗的形式，另一方面绝大部分此类游戏都需要线下交流，对于不太愿意出门的自己来说并不方便。炉石大大简化了源于许多前辈的成熟规则，并提供了相对完善的在线对战环境（也只有在线对战），获得了巨大的成功，同时也出现了众多的模仿者，Shadowverse就是其中之一。对于习惯于日式画风的人而言，这款游戏的画风无疑要比炉石舒服很多，这可能是很多人入坑的理由。</p>
@@ -880,7 +882,7 @@
     <link href="http://xiyuan.lu/post/19/"/>
     <id>http://xiyuan.lu/post/19/</id>
     <published>2016-07-13T12:56:26.000Z</published>
-    <updated>2017-01-16T14:57:09.000Z</updated>
+    <updated>2017-01-16T14:57:09.679Z</updated>
     
     <content type="html"><![CDATA[<p><strong>2016年7月3日 星期日  天气：因为是周日所以不太清楚</strong></p>
 <p>这是充满了喜悦与意外的一天，甚至连喜悦本身也充满了意外。</p>
@@ -917,7 +919,7 @@
     <link href="http://xiyuan.lu/post/18/"/>
     <id>http://xiyuan.lu/post/18/</id>
     <published>2015-10-29T12:55:18.000Z</published>
-    <updated>2017-01-16T14:57:00.000Z</updated>
+    <updated>2017-01-16T14:57:00.147Z</updated>
     
     <content type="html"><![CDATA[<p>“滴滴滴滴、滴滴滴滴、滴滴滴滴。”</p>
 <p>Zera揉了揉惺忪的睡眼，右手在身畔摸索一番，拿起了黑暗中唯一的光源。</p>
@@ -962,7 +964,7 @@
     <link href="http://xiyuan.lu/post/17/"/>
     <id>http://xiyuan.lu/post/17/</id>
     <published>2015-09-18T12:53:50.000Z</published>
-    <updated>2017-01-16T14:56:50.000Z</updated>
+    <updated>2017-01-16T14:56:50.845Z</updated>
     
     <content type="html"><![CDATA[<p>早高峰接近尾声，县城的33路小公交上虽已不能说人满为患，但仍旧座无虚席。</p>
 <p>不，说座无虚席好像有哪里不对。因为车上仍有一个空座位，虽有三五位站立的乘客，但却对它不闻不问。</p>
@@ -997,7 +999,7 @@
     <link href="http://xiyuan.lu/post/16/"/>
     <id>http://xiyuan.lu/post/16/</id>
     <published>2015-07-31T12:52:48.000Z</published>
-    <updated>2017-01-16T14:56:40.000Z</updated>
+    <updated>2017-01-16T14:56:40.745Z</updated>
     
     <content type="html"><![CDATA[<p>深宅大院。</p>
 <p>卓斌在跨过高高的门槛前，习惯性地用左手抚过自己的眉毛，仿佛这样，可以擦亮眼睛，把这个多少有些昏暗幽深的院落看得更清楚。</p>
