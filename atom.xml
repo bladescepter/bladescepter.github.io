@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiyuan.lu/"/>
-  <updated>2017-04-12T04:17:16.100Z</updated>
+  <updated>2017-04-12T04:20:56.342Z</updated>
   <id>http://xiyuan.lu/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>晓辰1 子夜</title>
+    <title>晓辰1·子夜</title>
     <link href="http://xiyuan.lu/post/36/"/>
     <id>http://xiyuan.lu/post/36/</id>
     <published>2017-04-10T02:24:22.000Z</published>
-    <updated>2017-04-12T04:17:16.100Z</updated>
+    <updated>2017-04-12T04:20:56.342Z</updated>
     
     <content type="html"><![CDATA[<p>在我的Evernote里，记录“晓辰”最初构思的笔记，创建于2014年1月15日，也就是三年之前。记录里有整体的提纲，以及人物设定。但三年过去了，连开头都还没有写出来。这似乎不算挖坑不填，顶多算是画了个坑的设计图就放置不管，因为甚至连第一铲土都还没有掘出。</p>
 <p>不过不用担心，这次一定<del>大概</del>会按照原计划，分5篇完成它。按照本blog的更新周期，大约两个月就可以写完了。在那之后，再整合到一篇文章里，做点修改。<del>这样就完美地解决了6期blog文章的选题问题。</del></p>
@@ -56,6 +56,10 @@
     
       <category term="小说" scheme="http://xiyuan.lu/categories/%E5%B0%8F%E8%AF%B4/"/>
     
+    
+      <category term="爱情" scheme="http://xiyuan.lu/tags/%E7%88%B1%E6%83%85/"/>
+    
+      <category term="猎奇" scheme="http://xiyuan.lu/tags/%E7%8C%8E%E5%A5%87/"/>
     
   </entry>
   
